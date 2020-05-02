@@ -35,6 +35,6 @@ If your would like to implement another methods in API can you follow the eWelin
 
 [https://ewelink-api.now.sh/docs/introduction](https://ewelink-api.now.sh/docs/introduction)
 
-### To know step by step implementation got to
+### step by step implementation got to
 
-[https://jaccon.com.br/](https://jaccon.com.br/)
+[https://jaccon.com.br/automacao-residencial-com-nodejs/](https://jaccon.com.br/automacao-residencial-com-nodejs/)
